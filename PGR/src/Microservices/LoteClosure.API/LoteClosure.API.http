@@ -1,0 +1,6 @@
+@LoteClosure.API_HostAddress = http://localhost:5071
+
+GET {{LoteClosure.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
